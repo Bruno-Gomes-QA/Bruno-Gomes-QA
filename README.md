@@ -1,4 +1,5 @@
 # 👋 Olá me chamo Bruno e seja bem-vindo ao meu GitHub!
+
 <br>
 <br>
 
@@ -13,6 +14,9 @@ Durante esse período, adquiri experiência prática em análise de dados, autom
 ### ♻️ Reciclagem Primícias LTDA, Embu das Artes — Sócio
 **Desde Junho de 2021**  
 Atualmente, sou responsável pela coleta e separação de resíduos recicláveis, além do controle de estoque, compras e vendas. Nesse período na Reciclagem, utilizei conhecimentos adquiridos na Bluesoft para automatizar relatórios mensais, facilitando a tomada de decisões.
+
+<br>
+<br>
 
 ## Formações
 
