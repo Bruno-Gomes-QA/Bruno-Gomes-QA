@@ -2,7 +2,7 @@
 <br>
 <br>
 
-## Experiência
+## Experiências
 
 ### 💙 Bluesoft Consultoria, Moema — Analista de Testes
 **Fevereiro de 2020 até Junho de 2022**  
