@@ -1,53 +1,100 @@
-# 👋 Olá me chamo Bruno e seja bem-vindo ao meu GitHub!
+# 👋 Olá, me chamo Bruno e seja bem-vindo ao meu GitHub!
 
 <br>
 
-Cursando Ciências da Computação, tenho experiência como QA no time de BI, onde adquiri conhecimentos em processos de ETL, criação de dashboards com Tableau, além de habilidades em Python, SQL e no ecossistema AWS. Essa vivência despertou minha paixão pela área de dados e motivação para fazer a diferença no setor.
+Sou **Desenvolvedor Fullstack** e estudante de **Ciência da Computação (UniFECAF)**. Minha experiência abrange desde o desenvolvimento de sistemas completos com **NodeJS, Java Spring Boot, Next.js e TypeScript** até a criação de integrações de APIs, automação de testes e deploy em nuvem (**AWS, GCP, Vercel, Docker**).  
 
-Busco começar minha carreira em dados para me tornar um engenheiro, e para isso atualmente estou estudando através da plataforma dio.me para obter a certificação AWS Data Enginner - Associate.
+Atuei como QA no time de BI da **Bluesoft Sistemas**, onde trabalhei com ETL, Tableau e AWS. Depois, como sócio da **Reciclagem Primícias**, liderei operações, relatórios automatizados e gestão de equipe. Atualmente, sou cofundador da **Reducess** e desenvolvedor pela **Mena Studio**, entregando soluções modernas, escaláveis e seguras.
 
-<br>
-
-## Experiências
-
-### 💙 Bluesoft Consultoria, Moema — Analista de Testes
-**Fevereiro de 2020 até Junho de 2022**  
-Atuei com processos de ETL e testes de dados no time de BI da Bluesoft Sistemas, colaborando com o ERP da empresa e garantindo a integridade dos dados em diversas áreas, como Financeiro, Fiscal, CRM e WMS. Utilizei a ferramenta Tableau para criar dashboards e apoiar a tomada de decisão.
-
-Durante esse período, adquiri experiência prática em análise de dados, automação de testes e no funcionamento de um ERP integrado a múltiplos setores. Essa vivência me motivou a seguir carreira na área de dados, onde estou aprofundando meus conhecimentos em SQL, Python e R.
-
-### ♻️ Reciclagem Primícias LTDA, Embu das Artes — Sócio
-**Desde Junho de 2021**  
-Atualmente, sou responsável pela coleta e separação de resíduos recicláveis, além do controle de estoque, compras e vendas. Nesse período na Reciclagem, utilizei conhecimentos adquiridos na Bluesoft para automatizar relatórios mensais, facilitando a tomada de decisões.
+Meu objetivo é crescer como **desenvolvedor fullstack**, aplicando boas práticas de arquitetura, segurança e escalabilidade para criar sistemas que gerem impacto real.
 
 <br>
 
-## Formações e Certificações
-### 🎓 UniFECAF, Taboão da Serra — Ciências da Computação
-**Cursando Bacharelado em 2024**
+## 💼 Experiências
+
+### 🟦 Reducess — Cofundador  
+**Set 2025 – Atual**  
+Integrações de APIs e sistemas sob medida para o varejo, com foco em transformar dados e conexões em resultados.
+
+---
+
+### 🖥️ Mena Studio — Desenvolvedor Fullstack Freelancer  
+**Jan 2025 – Set 2025**  
+- Desenvolvimento de sistemas web modernos com **NodeJS, Java Spring Boot, Next.js, TypeScript, PostgreSQL e NoSQL**;  
+- Criação e integração de APIs, seguindo boas práticas de arquitetura e segurança;  
+- Estruturação de bancos de dados com foco em performance e escalabilidade;  
+- Deploy em **Docker, Vercel, AWS e GCP**;  
+- Implementação de UI/UX com bibliotecas modernas (**ShadCN, Tailwind, Framer Motion**).  
+
+---
+
+### ♻️ Reciclagem Primícias LTDA — Sócio  
+**Jun 2021 – Jul 2025**  
+- Gestão operacional, logística e administrativa;  
+- Automação de relatórios de estoque e vendas;  
+- Coordenação de equipe e negociação com fornecedores/clientes.  
+
+---
+
+### 💙 Bluesoft Sistemas — QA no Time de BI  
+**Fev 2020 – Jun 2022**  
+- Testes exploratórios e automatizados em processos de **ETL** e dashboards;  
+- Validação de dados com **SQL, Athena e Spectrum**;  
+- Criação e otimização de dashboards em **Tableau**;  
+- Experiência prática com ERP em áreas Financeiro, Fiscal, CRM e WMS.  
 
 <br>
 
-### 💾 Dio.me - Formação - SQL Database Specialist
-**Concluído em 11 de 2024**
+## 🎓 Formação
 
-Desenvolvi habilidades em modelagem de banco de dados, consultas e manipulação de dados usando DML e DDL. Criação de soluções práticas, com foco em boas práticas, controle de concorrência, recuperação de dados e implementação de projetos.
-
-### ☁️ Dio.me - Formação - AWS Cloud Practitioner Certification
-**Concluído em 11 de 2024**
-
-Adquiri conhecimento nos conceitos fundamentais da AWS, incluindo escolha e configuração de serviços, segurança, monitoramento e gerenciamento, com propósito de obter a certificação.
-
-### 🐍 Dio.me - Bootcamp - Engenharia de Dados com Python
-**Concluído em 11 de 2024**
-
-Bootcamp com foco em Python para tratamento de dados e criação de dashboards com Power BI
+- **Bacharelado em Ciência da Computação — UniFECAF**  
+  *2024 – 2028 (em andamento)*  
 
 <br>
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://static.wixstatic.com/media/3cb832_f01f583cba1649dd89ee493b4d1d562e~mv2.png/v1/fill/w_542,h_557,al_c,lg_1,q_85,enc_auto/Image-empty-state.png" alt="Imagem 4" width="100">
-  <img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="Imagem 1" width="100">
-  <img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" alt="Imagem 2" width="100">
-  <img src="https://hermes.dio.me/tracks/06258ce2-6b7f-447c-82f2-f8d519983a64.png" alt="Imagem 3" width="100">
-</div>
+## 📜 Certificações
+
+- 💾 **SQL Database Specialist — Dio.me** *(Nov/2024)*  
+- ☁️ **AWS Cloud Practitioner — Dio.me** *(Nov/2024)*  
+- 🐍 **Bootcamp Engenharia de Dados com Python — Dio.me** *(Nov/2024)*  
+- 🎯 **AWS Data Engineer Associate (em andamento) — Dio.me***  
+
+<br>
+
+## 🏆 Conquistas
+
+- 🥇 1° lugar no Hackathon UniFECAF (2025);  
+- Monitor de Lógica de Programação (2025);  
+- Projeto de Iniciação Tecnológica: **Datalchemy** — Geração de dados sintéticos orientados por semântica (2025).  
+
+<br>
+
+## ⚙️ Habilidades
+
+- **Back-end:** Java (Spring Boot, JUnit) - NodeJS (Express) - Python (Flask, SQLAlchemy, Pandas, PySpark).  
+- **Front-end:** React, Next.js, TypeScript, Tailwind, ShadCN, Framer Motion.  
+- **APIs:** REST, Edge Functions, Webhooks.  
+- **Cloud & DevOps:** AWS (Redshift, Athena, EC2, QuickSight), GCP, Docker, GitHub Actions, CI/CD.  
+- **Dados:** ETL, modelagem de dados, automação de relatórios, dashboards (Tableau, Power BI).  
+- **Testes:** TDD, BDD, testes unitários e integração.  
+
+<br>
+
+## 🚀 Projetos em Destaque
+
+- 🚗 [**AutoFlow**](https://autoflowbrasil.com) — Plataforma SaaS para gestão de concessionárias.  
+- 🔬 [**Datalchemy**](https://github.com/Bruno-Gomes-QA/datalchemy) — Biblioteca Python para geração de dados sintéticos orientados por semântica.  
+- 🐍 [**SnifferPy**](https://github.com/Bruno-Gomes-QA/SnifferPy) — Biblioteca Python para profiling/debugging com relatórios de inspeção rápida.  
+- 🌍 [**Zuccopassaportes**](https://www.zuccopassaportes.com) — Plataforma digital voltada para serviços consulares.  
+- 🌱 [**Bholeos Amazonas**](https://www.bholeosamazonas.com.br) — Site institucional para venda de óleos e serviços automotivos.  
+- 🏍️ [**Shineray Recife**](https://www.shinerayrecife.com.br) — Portal institucional para concessionária de motos.  
+
+<br>
+
+---
+
+📫 **Contato:**  
+✉️ [bruno.gomes.qa@gmail.com](mailto:bruno.gomes.qa@gmail.com)  
+📱 [WhatsApp](https://wa.me/5511947229703)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-menezes-qa)  
+💻 [GitHub](https://github.com/Bruno-Gomes-QA)  
