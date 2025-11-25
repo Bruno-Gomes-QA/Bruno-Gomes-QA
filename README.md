@@ -34,27 +34,33 @@ O projeto envolve arquitetura, ciência de dados, engenharia e publicação cien
 
 ## 💼 Atuação Profissional
 
-### 🟦 Cofundador — **Reducess**
+### 🟦 Cofundador — **Reducess**  
+**Set 2025 – Atual**  
 Soluções inteligentes em dados, automação e integração para o varejo e serviços.  
-Produtos, APIs, edge functions, pipelines e plataformas que conectam sistemas e transformam dados em resultado.  
+Desenvolvimento de produtos, APIs, edge functions, pipelines e plataformas que conectam sistemas e transformam dados em resultados.  
 🔗 https://reducess.com/
 
 ---
 
-### 🖥️ Dev Fullstack — **Mena Studio**
-Criação de aplicações modernas com:  
-**NodeJS, Java Spring Boot, Python, Next.js, TypeScript, PostgreSQL, NoSQL, Docker, AWS, GCP**  
-e integrações profundas entre sistemas.
+### 🖥️ Desenvolvedor Fullstack — **Mena Studio**  
+**Jan 2025 – Set 2025**  
+Atuação no desenvolvimento de soluções digitais modernas e escaláveis.  
+Responsável pela criação de aplicações com:  
+**Node.js, Java Spring Boot, Python, Next.js, TypeScript, PostgreSQL, NoSQL, Docker, AWS e GCP**, além da integração entre diversos sistemas e serviços.
 
 ---
 
-### ♻️ Sócio — **Reciclagem Primícias LTDA**
-Gestão operacional e desenvolvimento de sistemas internos de automação, relatórios e inteligência para tomada de decisão.
+### ♻️ Sócio — **Reciclagem Primícias LTDA**  
+**Jun 2021 – Jul 2025**  
+Responsável pela gestão operacional, logística e administrativa.  
+Atuação no controle de estoque, automação de relatórios, processos de compra e venda, além da coordenação da equipe e relacionamento com fornecedores e clientes.
 
 ---
 
-### 💙 QA BI — **Bluesoft Sistemas**
-Testes automatizados e exploratórios em fluxos de ETL, validação de dados com Athena/Spectrum, dashboards e otimizações em Tableau.
+### 💙 QA BI — **Bluesoft Sistemas**  
+**Fev 2020 – Jun 2022**  
+Atuação no time de BI da Bluesoft, realizando testes exploratórios e automatizados em processos de ETL e dashboards.  
+Validação de integridade de dados utilizando **SQL, Amazon Athena e Spectrum**, além da otimização de dashboards em Tableau.
 
 ---
 
@@ -74,8 +80,6 @@ ETL • Modelagem de Dados • Pipelines • Data Quality • Dashboards (Tablea
 
 ### **IA & Automação**
 LLMs • LangChain • OpenAI API • Hugging Face • Aplicações generativas orientadas a dados
-
-*(Essas competências são reforçadas no seu currículo técnico, especialmente nas seções de habilidades e projetos :contentReference[oaicite:4]{index=4}.)*
 
 ---
 
