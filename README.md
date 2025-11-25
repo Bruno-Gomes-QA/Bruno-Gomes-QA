@@ -1,100 +1,125 @@
-# 👋 Olá, me chamo Bruno e seja bem-vindo ao meu GitHub!
+# 👋 Olá, seja bem-vindo ao meu GitHub!
 
-<br>
+Fique a vontade para vasculhar e ver alguns projetos incríveis aqui, mas se quiser me conhecer um pouco melhor vamos lá. Me chamo Bruno Menezes e sou **Cofundador da Reducess**, **Desenvolvedor Fullstack**, e **Pesquisador em IA e Geração de Dados Sintéticos**.  
 
-Sou **Desenvolvedor Fullstack** e estudante de **Ciência da Computação (UniFECAF)**. Minha experiência abrange desde o desenvolvimento de sistemas completos com **NodeJS, Java Spring Boot, Next.js e TypeScript** até a criação de integrações de APIs, automação de testes e deploy em nuvem (**AWS, GCP, Vercel, Docker**).  
+Minha atuação combina **Ciência, Engenharia e Produto** para transformar ideias em sistemas reais — escaláveis, inteligentes e prontos para produção.
 
-Atuei como QA no time de BI da **Bluesoft Sistemas**, onde trabalhei com ETL, Tableau e AWS. Depois, como sócio da **Reciclagem Primícias**, liderei operações, relatórios automatizados e gestão de equipe. Atualmente, sou cofundador da **Reducess** e desenvolvedor pela **Mena Studio**, entregando soluções modernas, escaláveis e seguras.
-
-Meu objetivo é crescer como **desenvolvedor fullstack**, aplicando boas práticas de arquitetura, segurança e escalabilidade para criar sistemas que gerem impacto real.
-
-<br>
-
-## 💼 Experiências
-
-### 🟦 Reducess — Cofundador  
-**Set 2025 – Atual**  
-Integrações de APIs e sistemas sob medida para o varejo, com foco em transformar dados e conexões em resultados.
+Hoje, meu foco é construir tecnologias que conectam **dados, automação e inteligência artificial** para gerar impacto direto em negócios.
 
 ---
 
-### 🖥️ Mena Studio — Desenvolvedor Fullstack Freelancer  
-**Jan 2025 – Set 2025**  
-- Desenvolvimento de sistemas web modernos com **NodeJS, Java Spring Boot, Next.js, TypeScript, PostgreSQL e NoSQL**;  
-- Criação e integração de APIs, seguindo boas práticas de arquitetura e segurança;  
-- Estruturação de bancos de dados com foco em performance e escalabilidade;  
-- Deploy em **Docker, Vercel, AWS e GCP**;  
-- Implementação de UI/UX com bibliotecas modernas (**ShadCN, Tailwind, Framer Motion**).  
+## 🚀 Sobre mim
+
+Atuo no desenvolvimento de **soluções sob medida**, plataformas SaaS e pipelines inteligentes de dados. Como pesquisador, conduzido pelo meu projeto **Datalchemy** (PIT UniFECAF 2025), investigo técnicas avançadas de **geração semântica de dados sintéticos**, combinando LLMs, SQLAlchemy, modelagem automática e validação relacional.
+
+Ao longo dos últimos anos, uni minha experiência em tecnologia à vivência prática como gestor e empreendedor para entregar soluções completas — da ideia ao deploy — mantendo visão técnica, científica e de negócio ao mesmo tempo.
+
+Estou a procura de desafios, parcerias e alguns probleminhas para resolver**.
 
 ---
 
-### ♻️ Reciclagem Primícias LTDA — Sócio  
-**Jun 2021 – Jul 2025**  
-- Gestão operacional, logística e administrativa;  
-- Automação de relatórios de estoque e vendas;  
-- Coordenação de equipe e negociação com fornecedores/clientes.  
+## 🧪 Linha de Pesquisa — *IA + Dados Sintéticos + Automação*
+
+Através da UniFECAF e juntamente com meus colegas e professor Flavio Santarelli, estamos desenvolvendo **Datalchemy**, uma biblioteca para:
+
+- Geração automatizada de dados sintéticos orientados por semântica;  
+- Interpretação de prompts em linguagem natural;  
+- Alinhamento com constraints reais de bancos SQL;  
+- Automação e documentação de esquemas;  
+- Suporte a experimentação acadêmica e ambientes seguros (LGPD).
+
+O projeto envolve arquitetura, ciência de dados, engenharia e publicação científica.
 
 ---
 
-### 💙 Bluesoft Sistemas — QA no Time de BI  
-**Fev 2020 – Jun 2022**  
-- Testes exploratórios e automatizados em processos de **ETL** e dashboards;  
-- Validação de dados com **SQL, Athena e Spectrum**;  
-- Criação e otimização de dashboards em **Tableau**;  
-- Experiência prática com ERP em áreas Financeiro, Fiscal, CRM e WMS.  
+## 💼 Atuação Profissional
 
-<br>
-
-## 🎓 Formação
-
-- **Bacharelado em Ciência da Computação — UniFECAF**  
-  *2024 – 2028 (em andamento)*  
-
-<br>
-
-## 📜 Certificações
-
-- 💾 **SQL Database Specialist — Dio.me** *(Nov/2024)*  
-- ☁️ **AWS Cloud Practitioner — Dio.me** *(Nov/2024)*  
-- 🐍 **Bootcamp Engenharia de Dados com Python — Dio.me** *(Nov/2024)*  
-- 🎯 **AWS Data Engineer Associate (em andamento) — Dio.me***  
-
-<br>
-
-## 🏆 Conquistas
-
-- 🥇 1° lugar no Hackathon UniFECAF (2025);  
-- Monitor de Lógica de Programação (2025);  
-- Projeto de Iniciação Tecnológica: **Datalchemy** — Geração de dados sintéticos orientados por semântica (2025).  
-
-<br>
-
-## ⚙️ Habilidades
-
-- **Back-end:** Java (Spring Boot, JUnit) - NodeJS (Express) - Python (Flask, SQLAlchemy, Pandas, PySpark).  
-- **Front-end:** React, Next.js, TypeScript, Tailwind, ShadCN, Framer Motion.  
-- **APIs:** REST, Edge Functions, Webhooks.  
-- **Cloud & DevOps:** AWS (Redshift, Athena, EC2, QuickSight), GCP, Docker, GitHub Actions, CI/CD.  
-- **Dados:** ETL, modelagem de dados, automação de relatórios, dashboards (Tableau, Power BI).  
-- **Testes:** TDD, BDD, testes unitários e integração.  
-
-<br>
-
-## 🚀 Projetos em Destaque
-
-- 🚗 [**AutoFlow**](https://autoflowbrasil.com) — Plataforma SaaS para gestão de concessionárias.  
-- 🔬 [**Datalchemy**](https://github.com/Bruno-Gomes-QA/datalchemy) — Biblioteca Python para geração de dados sintéticos orientados por semântica.  
-- 🐍 [**SnifferPy**](https://github.com/Bruno-Gomes-QA/SnifferPy) — Biblioteca Python para profiling/debugging com relatórios de inspeção rápida.  
-- 🌍 [**Zuccopassaportes**](https://www.zuccopassaportes.com) — Plataforma digital voltada para serviços consulares.  
-- 🌱 [**Bholeos Amazonas**](https://www.bholeosamazonas.com.br) — Site institucional para venda de óleos e serviços automotivos.  
-- 🏍️ [**Shineray Recife**](https://www.shinerayrecife.com.br) — Portal institucional para concessionária de motos.  
-
-<br>
+### 🟦 Cofundador — **Reducess**
+Soluções inteligentes em dados, automação e integração para o varejo e serviços.  
+Produtos, APIs, edge functions, pipelines e plataformas que conectam sistemas e transformam dados em resultado.  
+🔗 https://reducess.com/
 
 ---
 
-📫 **Contato:**  
-✉️ [bruno.gomes.qa@gmail.com](mailto:bruno.gomes.qa@gmail.com)  
-📱 [WhatsApp](https://wa.me/5511947229703)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bruno-menezes-qa)  
-💻 [GitHub](https://github.com/Bruno-Gomes-QA)  
+### 🖥️ Dev Fullstack — **Mena Studio**
+Criação de aplicações modernas com:  
+**NodeJS, Java Spring Boot, Python, Next.js, TypeScript, PostgreSQL, NoSQL, Docker, AWS, GCP**  
+e integrações profundas entre sistemas.
+
+---
+
+### ♻️ Sócio — **Reciclagem Primícias LTDA**
+Gestão operacional e desenvolvimento de sistemas internos de automação, relatórios e inteligência para tomada de decisão.
+
+---
+
+### 💙 QA BI — **Bluesoft Sistemas**
+Testes automatizados e exploratórios em fluxos de ETL, validação de dados com Athena/Spectrum, dashboards e otimizações em Tableau.
+
+---
+
+## 🧠 Competências Técnicas
+
+### **Back-end**
+Java (Spring Boot, JUnit) • NodeJS (Express) • Python (Flask, SQLAlchemy, Pandas, PySpark)
+
+### **Front-end**
+React • Next.js • TypeScript • Tailwind • ShadCN • Framer Motion
+
+### **Cloud & DevOps**
+AWS (Redshift, Athena, EC2, QuickSight) • GCP • Docker • GitHub Actions
+
+### **Dados**
+ETL • Modelagem de Dados • Pipelines • Data Quality • Dashboards (Tableau, Power BI)
+
+### **IA & Automação**
+LLMs • LangChain • OpenAI API • Hugging Face • Aplicações generativas orientadas a dados
+
+*(Essas competências são reforçadas no seu currículo técnico, especialmente nas seções de habilidades e projetos :contentReference[oaicite:4]{index=4}.)*
+
+---
+
+## 🏆 Reconhecimentos
+
+- 🥇 **1° Lugar Hackathon UniFECAF 2025** — visão de produto + execução técnica  
+- 👨‍🏫 **Monitor de Lógica de Programação**  
+- 🔬 **Projeto de Iniciação Tecnológica — Datalchemy (2025)**  
+
+---
+
+## 🚀 Projetos e Produtos
+
+### 🛠️ **AutoFlow** — SaaS para Concessionárias  
+Gestão comercial, estoque, leads e automações.  
+🔗 https://autoflowbrasil.com/
+
+### 🔬 **Datalchemy** — Biblioteca Python de Dados Sintéticos (PIT UniFECAF)  
+Pesquisa científica em IA aplicada a bancos de dados relacionais.  
+🔗 https://github.com/Bruno-Gomes-QA/datalchemy
+
+### 🐍 **SnifferPy** — Ferramenta de Inspect/Debug para Python  
+🔗 https://github.com/Bruno-Gomes-QA/SnifferPy
+
+### 🏍️ **Shineray Recife** — Vitrine para concessionária  
+🔗 https://www.shinerayrecife.com.br/
+
+### 🧩 **Mineer (Reducess)**
+🔗 https://mineer.reducess.com/
+
+---
+
+## 📫 Conecte-se Comigo
+
+- ✉️ **Email:** bruno@reducess.com
+- 📱 **WhatsApp:** https://wa.me/5511947229703  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/bruno-menezes-qa  
+- 💻 **GitHub:** https://github.com/Bruno-Gomes-QA  
+
+---
+
+### ✨ Filosofia de Trabalho
+
+Eu construo sistemas que não apenas funcionam — **mas que fazem sentido**.  
+Eu pesquiso para entender profundamente — **e entrego para transformar**.
+
+Se você tem um desafio técnico, científico ou de produto, vamos conversar.
