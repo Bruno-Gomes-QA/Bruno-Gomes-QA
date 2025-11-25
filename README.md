@@ -10,11 +10,11 @@ Hoje, meu foco é construir tecnologias que conectam **dados, automação e inte
 
 ## 🚀 Sobre mim
 
-Atuo no desenvolvimento de **soluções sob medida**, plataformas SaaS e pipelines inteligentes de dados. Como pesquisador, conduzido pelo meu projeto **Datalchemy** (PIT UniFECAF 2025), investigo técnicas avançadas de **geração semântica de dados sintéticos**, combinando LLMs, SQLAlchemy, modelagem automática e validação relacional.
+Atuo no desenvolvimento de **soluções sob medida**, plataformas SaaS e pipelines inteligentes de dados. Como pesquisador, conduzido pelo projeto **Datalchemy** (PIT UniFECAF 2025), investigo técnicas avançadas de **geração semântica de dados sintéticos**, combinando LLMs, modelagem automática e validação relacional.
 
 Ao longo dos últimos anos, uni minha experiência em tecnologia à vivência prática como gestor e empreendedor para entregar soluções completas — da ideia ao deploy — mantendo visão técnica, científica e de negócio ao mesmo tempo.
 
-Estou a procura de desafios, parcerias e alguns probleminhas para resolver**.
+Estou a procura de desafios, parcerias e alguns probleminhas para resolver.
 
 ---
 
